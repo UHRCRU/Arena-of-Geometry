@@ -1,0 +1,1 @@
+instance_destroy(other); //destroy the arrow that hits the shield
