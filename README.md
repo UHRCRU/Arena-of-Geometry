@@ -1,0 +1,2 @@
+Arena Of Geometry was my graduation project, I created this with GameMaker Game Engine. It has a simple logic there is an enemy simulating a footman, holding a sword and shield. and you the player is an archer tries to shoot down the enemy with arrows from the gap between sword and shield, when enemy gets closer it can attack you by swinging the sword and it has a slower speed than you so technically it can never catch you and when you shoot the arrow it reacts as moving to opposite sites to dodge the arrow.
+![](/demo.gif "demo")
